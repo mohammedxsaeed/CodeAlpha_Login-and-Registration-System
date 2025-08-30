@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1756597705 source:c:\ece\code alpha\login & registration system\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+	<iomanip>
+
